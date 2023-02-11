@@ -5,7 +5,7 @@ from tkinter import filedialog
 
 #tạo giao diện
 root = Tk()
-root.title('Manchester United')
+root.title('Manchester United')  
 root.geometry("500x630")
 root.iconbitmap('manchesterunited.ico')
 
